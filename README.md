@@ -1,0 +1,1 @@
+# Bachelor-Thesis-Auto-Knowledge-Graph-Using-LLMs
