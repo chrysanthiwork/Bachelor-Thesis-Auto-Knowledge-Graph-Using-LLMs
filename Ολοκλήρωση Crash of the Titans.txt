@@ -1,0 +1,29 @@
+<Crash of the Titans, hasAntagonist, "Aku Aku">
+<Crash of the Titans, hasSequel, "Crash: Twinsanity">
+<Crash of the Titans, hasStoryline, "Stop the evil plans of Dr. Neo Cortex, Aku Aku, and Uka Uka">
+<Crash of the Titans, hasGameplayMechanics, "Collectibles">
+<Crash of the Titans, hasStoryline, "Prevent the evil plans of Aku Aku and Uka Uka from coming to fruition">
+<Crash of the Titans, hasSequel, "Crash: Mind Over Mutant">
+<Crash of the Titans, hasStoryline, "Save the world from destruction">
+<Crash of the Titans, hasReleaseDate, "September 24, 2007">
+<Crash of the Titans, hasStoryline, "Save the world from the evil plans of Dr. Neo Cortex, Aku Aku, and Uka Uka">
+<Crash of the Titans, hasStoryline, "Prevent the evil plans of Dr. Neo Cortex, Aku Aku, and Uka Uka from coming to fruition">
+<Crash of the Titans, hasPlatforms, "PlayStation 2, Nintendo DS, Xbox 360, Wii, PlayStation Portable">
+<Crash of the Titans, hasPublisher, "Activision">
+<Crash of the Titans, hasStoryline, "Prevent the Titans from taking over the world">
+<Crash of the Titans, hasGenre, "Platformer">
+<Crash of the Titans, hasStoryline, "Stop the evil plans of Dr. Neo Cortex">
+<Crash of the Titans, hasGameplayMechanics, "Exploration">
+<Crash of the Titans, hasStoryline, "Stop the evil plans of Neo Cortex, Aku Aku, and Uka Uka">
+<Crash of the Titans, hasStoryline, "Save the world from the evil plans of Neo Cortex, Aku Aku, and Uka Uka">
+<Crash of the Titans, hasGameplayMechanics, "Boss battles">
+<Crash of the Titans, hasStoryline, "Prevent the evil plans of Dr. Neo Cortex from coming to fruition">
+<Crash of the Titans, hasStoryline, "Stop the evil plans of Aku Aku and Uka Uka">
+<Crash of the Titans, hasSequel, "Crash Bandicoot: Wrath of Cortex">
+<Crash of the Titans, hasStoryline, "Stop the Titans from destroying the world">
+<Crash of the Titans, hasReception, "Metacritic score 68/100">
+<Crash of the Titans, hasStoryline, "Save the world from the evil plans of Dr. Neo Cortex">
+<Crash of the Titans, hasStoryline, "Prevent the evil plans of Neo Cortex, Aku Aku, and Uka Uka from coming to fruition">
+<Crash of the Titans, hasAntagonist, "Uka Uka">
+<Crash of the Titans, hasStoryline, "Save the world from the evil plans of Aku Aku and Uka Uka">
+<Crash of the Titans, hasDeveloper, "Vicarious Visions">

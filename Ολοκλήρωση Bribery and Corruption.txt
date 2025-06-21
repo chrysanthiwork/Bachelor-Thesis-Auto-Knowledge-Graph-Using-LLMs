@@ -1,0 +1,22 @@
+<Bribery, hasConsequence, Reduced Public Trust>
+<Global Bribery and Corruption, hasLegalCase, Siemens Bribery Scandal>
+<Corruption, hasConsequence, Reduced Government Revenue>
+<Corruption, hasConsequence, Increased Inequality>
+<Global Bribery and Corruption, hasInvestigativeMethod, Social Network Analysis>
+<Global Bribery and Corruption, hasInvestigativeMethod, Forensic Analysis>
+<Global Bribery and Corruption, hasFinancialImpact, Reduced Economic Growth>
+<Organisation for Economic Co-operation and Development, hasReport, Anti-Bribery Convention>
+<Transparency International, hasReport, Bribery and Corruption Index>
+<Bribery, isTypeOf, Corruption>
+<OECD Anti-Bribery Convention, hasTarget, Bribery of Foreign Public Officials>
+<Corruption, hasConsequence, EconomicDecline>
+<Global Bribery and Corruption, hasKeyActor, International Financial Institutions>
+<United States, hasCase, Wells Fargo Account Fraud>
+<Global Bribery and Corruption, hasFinancialImpact, Reduced Foreign Direct Investment>
+<World Bank, hasReport, Worldwide Governance Indicators>
+<United Nations Office on Drugs and Crime, hasReport, Global Corruption Report>
+<International Monetary Fund, monitors, Bribery and Corruption>
+<Global Bribery and Corruption, hasInvestigativeMethod, DataMining>
+<Transparency International, hasReport, Corruption Perceptions Index>
+
+

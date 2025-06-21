@@ -1,0 +1,71 @@
+<Global Bribery and Corruption, hasReport, "World Economic Forum Global Risks Report">
+<Brazil, hasCase, "Petrobras corruption scandal">
+<World Bank, investigates, Bribery>
+<India, hasCase, "2G spectrum scam">
+<Investigative Methods, include, "witness interviews">
+<United Nations Convention Against Corruption, addresses, "bribery and corruption">
+<Global Bribery and Corruption, hasExpertAnalysis, "World Economic Forum">
+<Interpol, coordinates, "International Police Actions Against Corruption">
+<Investigative Methods, include, "undercover operations">
+<Global Bribery and Corruption, hasFinancialImpact, "Decreased Foreign Direct Investment">
+<Global Bribery and Corruption, hasInvestigativeMethod, "Forensic Accounting">
+<Russia, hasCase, "Oleg Deripaska bribery accusations">
+<Global Bribery and Corruption, hasFinancialImpact, "Reduced Investment in Infrastructure">
+<United States, hasCase, "Enron Corporation scandal">
+<Global Bribery and Corruption, hasKeyActor, "Media Outlets">
+<Global Bribery and Corruption, hasLegalCase, "FIFA Corruption Case">
+<Global Bribery and Corruption, hasKeyActor, "Lobbyists">
+<Investigative Methods, include, "wiretapping">
+<Corruption, increases, "business costs">
+<OECD Anti-Bribery Convention, targets, "bribery of foreign public officials">
+<Global Bribery and Corruption, hasExpertAnalysis, Transparency International>
+<Global Bribery and Corruption, hasKeyActor, "Government Officials">
+<Bribery, causes, "economic decline">
+<Corruption, diminishes, "public trust in government">
+<Global Bribery and Corruption, hasTrend, "Asia-Pacific remains a hotspot">
+<Transparency International, publishes, "Corruption Perceptions Index">
+<Global Bribery and Corruption, isCompleted, "Yes">
+<Investigative Methods, include, "forensic accounting">
+<Global Bribery and Corruption, hasLegalFramework, "Bribery Act 2010 (United Kingdom)">
+<Global Bribery and Corruption, hasInvestigativeMethod, "Whistleblower Programs">
+<Global Bribery and Corruption, hasInvestigativeMethod, "Data Analytics">
+<Organisation for Economic Co-operation and Development, fights, Bribery>
+<Investigative Methods, include, "document analysis">
+<Global Bribery and Corruption, hasInvestigativeMethod, "Financial Audits">
+<United Nations Office on Drugs and Crime, combats, "Global Corruption">
+<Global Bribery and Corruption, hasExpertAnalysis, United Nations Office on Drugs and Crime>
+<Foreign Corrupt Practices Act, appliesTo, "international business bribery">
+<Global Bribery and Corruption, hasLegalFramework, "Organisation for Economic Co-operation and Development Anti-Bribery Convention">
+<Global Bribery and Corruption, hasKeyActor, "Non-Governmental Organizations">
+<Global Bribery and Corruption, hasReport, "United Nations Office on Drugs and Crime Global Report on Corruption">
+<Global Bribery and Corruption, hasExpertAnalysis, World Bank>
+<Bribery, undermines, "fair competition">
+<Global Bribery and Corruption, hasReport, "Organisation for Economic Co-operation and Development Anti-Bribery Convention">
+<Global Bribery and Corruption, hasLegalCase, "Rolls-Royce Bribery Scandal">
+<International Organization for Cooperation against Corruption, publishes, "Global Corruption Report">
+<Global Bribery and Corruption, hasReport, "Transparency International Corruption Perceptions Index">
+<Global Bribery and Corruption, hasReport, "World Bank Worldwide Governance Indicators">
+<Corruption, leads to, "reduced investment">
+<Global Bribery and Corruption, hasFinancialImpact, "Loss of Revenue for Governments">
+<International Monetary Fund, monitors, Corruption>
+<Global Bribery and Corruption, hasKeyActor, "Multinational Corporations">
+<Bribery, reduces, "government revenue">
+<Global Bribery and Corruption, hasLegalCase, "Volkswagen Emissions Scandal">
+<Global Bribery and Corruption, hasTrend, "Lack of transparency in supply chains">
+<Global Bribery and Corruption, hasFinancialImpact, "Increased Costs for Businesses">
+<Global Bribery and Corruption, hasLegalCase, "PetroChina Corruption Case">
+<United Nations Office on Drugs and Crime, publishes, "Global Corruption Barometer">
+<Global Bribery and Corruption, hasKeyActor, "International Organized Crime Groups">
+<Global Bribery and Corruption, hasLegalFramework, United Nations Convention Against Corruption>
+<Bribery and Corruption, involves, "legal cases worldwide">
+<Global Bribery and Corruption, hasExpertAnalysis, Organisation for Economic Co-operation and Development>
+<Global Bribery and Corruption, hasKeyActor, "Consultants">
+<Global Bribery and Corruption, hasLegalCase, "Odebrecht Corruption Scandal">
+<Global Bribery and Corruption, hasLegalFramework, "Australian Criminal Code">
+<Global Bribery and Corruption, hasFinancialImpact, "Erosion of Public Trust">
+<Global Bribery and Corruption, hasTrend, "Increase in digital platforms">
+<Global Bribery and Corruption, hasLegalFramework, Foreign Corrupt Practices Act>
+<China, hasCase, "Bo Xilai corruption case">
+<Corruption, hinders, "economic development">
+<Bribery, results in, "higher prices for consumers">
+<Global Bribery and Corruption, hasInvestigativeMethod, "Public Hearings">

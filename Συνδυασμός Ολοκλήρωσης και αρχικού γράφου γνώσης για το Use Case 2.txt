@@ -1,0 +1,204 @@
+<AdvancedPersistentThreats, hasResponseStrategy, "ContinuousMonitoring">
+<SocialEngineering, response, "train staff">
+<IdentityTheft, hasResponseStrategy, "SecurePasswordManagement">
+<CybercrimeInvestigation, governedBy, "NationalInfrastructureProtectionAct">
+<KnowledgeGraph, hasScope, "AttackVectors">
+<Law Enforcement Knowledge Graph, scope, "extends, local police departments">
+<KnowledgeGraph, includesCaseStudy, "CapitalOneDataBreach">
+<ScriptKiddie, hasMotivation, "Curiosity">
+<Cryptojacking, usesAttackVector, "BrowserExtensions">
+<KnowledgeGraph, hasScope, "ResponseStrategies">
+<CyberMercenary, hasSkillLevel, "Advanced">
+<Ransomware, hasResponseStrategy, "RegularBackups">
+<CyberMercenary, hasMotivation, "FinancialGain">
+<KnowledgeGraph, includesCaseStudy, "NotPetyaRansomwareAttack">
+<Phishing, hasResponseStrategy, "MultiFactorAuthentication">
+<Cybercrime, includes, Malware>
+<CybercrimeInvestigation, governedBy, "ElectronicCommunicationsPrivacyAct">
+<Canada, hasLegalFramework, "Personal Information Protection and Electronic Documents Act">
+<StateSponsor, usesTools, "CustomDevelopedTools">
+<KnowledgeGraph, integratesDataSource, "OpenSourceIntelligenceTools">
+<Uses, malware, Cybercriminal>
+<SocialEngineering, hasResponseStrategy, "AccessControls">
+<Phishing, involves, "deceptive emails">
+<KnowledgeGraph, hasObjective, "EducateLawEnforcement">
+<Cybercrime, includes, SocialEngineering>
+<CyberThief, hasMotivation, "FinancialGain">
+<CyberSpy, hasSkillLevel, "Advanced">
+<OrganizedCrime, hasSkillLevel, "Intermediate">
+<CyberExtortionist, hasMotivation, "FinancialGain">
+<InsiderThreat, hasMotivation, "FinancialGain">
+<CyberTerrorist, usesTools, "CustomDevelopedTools">
+<Cybercrime, includes, DistributedDenialOfService>
+<Cybercrime, includes, DataBreach>
+<AdvancedPersistentThreats, usesAttackVector, "ZeroDayExploits">
+<DistributedDenialOfService, usesAttackVector, "Botnets">
+<Cybercriminal, hasProfile, CyberThief>
+<Malware, hasResponseStrategy, "UserEducation">
+<Australia, hasLegalFramework, "Cybercrime Act">
+<United Nations, hasLegalFramework, "Cybercrime Convention">
+<InsiderThreat, hasSkillLevel, "Varies">
+<Cybercrime, includes, Cryptojacking>
+<InsiderThreats, hasResponseStrategy, "MonitoringSoftware">
+<OrganizedCrime, usesTools, "CustomScripts">
+<KnowledgeGraph, integratesDataSource, "NationalCyberSecurityCentre">
+<KnowledgeGraph, hasObjective, "SupportInvestigations">
+<Cybercriminal, hasProfile, CyberMercenary>
+<Hacktivist, hasSkillLevel, "Intermediate">
+<Law Enforcement Knowledge Graph, objective, "improve intelligence sharing">
+<KnowledgeGraph, includesCaseStudy, "WannaCryRansomwareAttack">
+<Cybercrime, includes, Ransomware>
+<DDoS, response, "use mitigation tools">
+<Cybercriminal, hasProfile, ScriptKiddie>
+<DataBreach, usesAttackVector, "WeakEncryption">
+<CybercrimeInvestigation, governedBy, "CybersecurityInformationSharingAct">
+<Cryptojacking, usesAttackVector, "MaliciousEmailAttachments">
+<CybercrimeInvestigation, governedBy, "ElectronicSignaturesinGlobalandNationalCommerceAct">
+<Cryptojacking, usesAttackVector, "MaliciousWebsites">
+<MotivatedBy, financialGain, Cybercriminal>
+<Malware, usesAttackVector, "VulnerableSoftware">
+<Cybercriminal, hasProfile, CyberSpy>
+<Cybercriminal, hasProfile, CyberExtortionist>
+<DistributedDenialOfService, hasResponseStrategy, "LoadBalancers">
+<Cybercrime, includes, AdvancedPersistentThreats>
+<Hacktivist, usesTools, "CustomScripts">
+<DDoS, involves, "overwhelming servers">
+<SocialEngineering, involves, "manipulating individuals">
+<KnowledgeGraph, integratesDataSource, "EuropeanUnionAgencyForCybersecurity">
+<KnowledgeGraph, integratesDataSource, "CybersecurityAndInfrastructureSecurityAgency">
+<DataBreach, hasResponseStrategy, "DataEncryption">
+<KnowledgeGraph, integratesDataSource, "IBMXForceThreatIntelligenceIndex">
+<InsiderThreats, usesAttackVector, "DataExfiltration">
+<AdvancedPersistentThreats, hasResponseStrategy, "IncidentResponseTeam">
+<KnowledgeGraph, hasObjective, "ImproveLegalProceedings">
+<ScriptKiddie, hasSkillLevel, "Beginner">
+<CybercrimeInvestigation, governedBy, "ComputerFraudAndAbuseAct">
+<InsiderThreat, usesTools, "AccessToInternalSystems">
+<StateSponsor, hasMotivation, "Political">
+<Phishing, usesAttackVector, "SocialMedia">
+<OperatesIn, cyberDarknetMarkets, Cybercriminal>
+<DataBreach, usesAttackVector, "SQLInjection">
+<KnowledgeGraph, includesCaseStudy, "YahooDataBreach">
+<Cybercrime, includes, Phishing>
+<KnowledgeGraph, integratesDataSource, "DarkWebMonitoringServices">
+<DataBreach, hasResponseStrategy, "AccessControls">
+<CybercrimeInvestigation, governedBy, "ChildInternetProtectionAct">
+<Cybercriminal, hasProfile, InsiderThreat>
+<KnowledgeGraph, includesCaseStudy, "UberDataBreach">
+<SocialEngineering, usesAttackVector, "Tailgating">
+<Phishing, response, "educate users">
+<Ransomware, hasResponseStrategy, "PatchManagement">
+<InsiderThreats, usesAttackVector, "MisuseOfAccess">
+<Ransomware, hasResponseStrategy, "NetworkSegmentation">
+<KnowledgeGraph, includesCaseStudy, "MarriottDataBreach">
+<KnowledgeGraph, includesCaseStudy, "MarriottResortsInternationalDataBreach">
+<CyberSpy, usesTools, "CustomDevelopedTools">
+<Ransomware, usesAttackVector, "RemoteDesktopProtocol">
+<KnowledgeGraph, hasScope, "CybercriminalProfiles">
+<Cryptojacking, hasResponseStrategy, "SecurityPatches">
+<Cryptojacking, hasResponseStrategy, "BrowserExtensionsManagement">
+<CybercrimeInvestigation, governedBy, "IdentityTheftAssistanceandReductionAct">
+<Cybercriminal, hasProfile, Hacktivist>
+<Hacktivist, hasMotivation, "Political">
+<Malware, hasResponseStrategy, "AntivirusSoftware">
+<Cryptojacking, hasResponseStrategy, "ResourceMonitoring">
+<AdvancedPersistentThreats, hasResponseStrategy, "ThreatIntelligence">
+<KnowledgeGraph, hasScope, "LegalFrameworks">
+<Ransomware, response, "restore from backups">
+<KnowledgeGraph, hasScope, "CaseStudies">
+<KnowledgeGraph, includesCaseStudy, "EquifaxDataBreach">
+<Phishing, hasResponseStrategy, "EmployeeTraining">
+<CybercrimeInvestigation, governedBy, "HealthInsurancePortabilityAndAccountabilityAct">
+<DataBreach, hasResponseStrategy, "IncidentResponsePlan">
+<Targets, enterprises, Cybercriminal>
+<Phishing, usesAttackVector, "SMS">
+<SocialEngineering, usesAttackVector, "Baiting">
+<Law Enforcement Knowledge Graph, scope, "covers, national security">
+<IdentityTheft, usesAttackVector, DataBreach>
+<CyberExtortionist, usesTools, Ransomware>
+<European Union, hasLegalFramework, "Cybersecurity Act">
+<CyberTerrorist, hasMotivation, "Political">
+<United States, hasLegalFramework, "Computer Fraud and Abuse Act">
+<Malware, usesAttackVector, "DriveByDownloads">
+<InsiderThreats, hasResponseStrategy, "BackgroundChecks">
+<CyberTerrorist, hasSkillLevel, "Advanced">
+<Ransomware, usesAttackVector, "MaliciousEmailAttachments">
+<DataBreach, usesAttackVector, InsiderThreats>
+<Malware, usesAttackVector, "RemovableMedia">
+<KnowledgeGraph, integratesDataSource, "DepartmentOfJustice">
+<Malware, hasResponseStrategy, "IntrusionDetectionSystems">
+<Cybercriminal, hasProfile, CyberTerrorist>
+<Law Enforcement Knowledge Graph, aims, "enhance investigation">
+<CybercrimeInvestigation, governedBy, "DigitalMillenniumCopyrightAct">
+<CyberMercenary, usesTools, "CustomDevelopedTools">
+<SocialEngineering, hasResponseStrategy, "IncidentResponsePlan">
+<Cybercrime, includes, InsiderThreats>
+<DistributedDenialOfService, hasResponseStrategy, "Firewalls">
+<IdentityTheft, usesAttackVector, SocialEngineering>
+<KnowledgeGraph, hasScope, "RealWorldDataSources">
+<Malware, response, "install antivirus">
+<CyberThief, hasSkillLevel, "Intermediate">
+<SocialEngineering, usesAttackVector, "Pretexting">
+<Cybercriminal, hasProfile, OrganizedCrime>
+<DistributedDenialOfService, usesAttackVector, "AmplificationAttacks">
+<StateSponsor, hasSkillLevel, "Advanced">
+<Ransomware, involves, "encrypting data">
+<CyberThief, usesTools, Malware>
+<CybercrimeInvestigation, governedBy, "GeneralDataProtectionRegulation">
+<Ransomware, usesAttackVector, "ExploitKit">
+<KnowledgeGraph, includesCaseStudy, "SolarWindsSupplyChainAttack">
+<Task, isCompleted, "True">
+<KnowledgeGraph, hasScope, "CybercrimeTypes">
+<KnowledgeGraph, hasObjective, "EnhanceResponseEfficiency">
+<Law Enforcement Knowledge Graph, includes, "criminal data">
+<Exhibits, technicalSkills, Cybercriminal>
+<CyberSpy, hasMotivation, "Espionage">
+<Phishing, usesAttackVector, "Email">
+<Cybercriminal, hasProfile, StateSponsor>
+<IdentityTheft, usesAttackVector, Phishing>
+<Malware, involves, "malicious software">
+<KnowledgeGraph, integratesDataSource, "FBIInternetCrimeComplaintCenter">
+<KnowledgeGraph, integratesDataSource, "SymantecInternetSecurityThreatReport">
+<KnowledgeGraph, includesCaseStudy, "TargetDataBreach">
+<InsiderThreats, hasResponseStrategy, "AccessRevocation">
+<Phishing, hasResponseStrategy, "EmailFiltering">
+<CyberExtortionist, hasSkillLevel, "Intermediate">
+<DistributedDenialOfService, hasResponseStrategy, "ContentDeliveryNetworks">
+<KnowledgeGraph, integratesDataSource, "VerizonDataBreachInvestigationsReport">
+<IdentityTheft, hasResponseStrategy, "FraudAlerts">
+<OrganizedCrime, hasMotivation, "FinancialGain">
+<ScriptKiddie, usesTools, "PreBuiltScripts">
+<IdentityTheft, hasResponseStrategy, "CreditMonitoring">
+<AdvancedPersistentThreats, usesAttackVector, "SupplyChainAttacks">
+<SocialEngineering, hasResponseStrategy, "SecurityAwarenessTraining">
+<Cybercrime, includes, IdentityTheft>
+<KnowledgeGraph, hasObjective, "FacilitateCollaboration">
+<ScriptKiddie, usesTools, "MalwareAnalysisTools">
+<AdvancedPersistentThreats, hasResponseStrategy, "ThreatIntelligence">
+<CybercrimeInvestigation, governedBy, "ComputerFraudAndAbuseAct">
+<ScriptKiddie, hasMotivation, "Curiosity">
+<DataBreach, hasResponseStrategy, "DataMasking">
+<CybercrimeInvestigation, governedBy, "HealthInsurancePortabilityAndAccountabilityAct">
+<CyberTerrorist, usesTools, "CustomDevelopedTools">
+<Cybercrime, includes, "IdentityTheft">
+<CybercrimeInvestigation, governedBy, "GeneralDataProtectionRegulation">
+<Cybercrime, includes, "Malware">
+<CyberMercenary, hasProfile, "PrivateMilitaryCompany">
+<Cybercrime, includes, "Cryptojacking">
+<InsiderThreat, hasSkillLevel, "Intermediate">
+<CyberTerrorist, hasMotivation, "Political">
+<Cybercriminal, hasProfile, "CyberThief">
+<Cybercrime, includes, "AdvancedPersistentThreats">
+<CybercrimeInvestigation, governedBy, "CybersecurityInformationSharingAct">
+<Cybercriminal, hasProfile, "CyberSpy">
+<CybercrimeInvestigation, governedBy, "NationalInfrastructureProtectionAct">
+<CybercrimeInvestigation, governedBy, "FederalTradeCommissionAct">
+<Phishing, usesAttackVector, "SocialMedia">
+<Cybercrime, includes, "SocialEngineering">
+<CybercrimeInvestigation, governedBy, "ElectronicSignaturesinGlobalandNationalCommerceAct">
+<Cybercrime, includes, "Phishing">
+<Ransomware, usesAttackVector, "ExploitKit">
+<CybercrimeInvestigation, governedBy, "FederalInformationSecurityManagementAct">
+<Cybercrime, includes, "Ransomware">
+<CybercrimeInvestigation, governedBy, "GrammLeachBlileyAct">
+<Cybercrime, includes, "DistributedDenialOfService">

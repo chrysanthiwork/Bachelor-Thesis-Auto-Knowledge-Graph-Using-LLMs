@@ -1,0 +1,11 @@
+colorama
+duckduckgo_search
+google_search_results
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-text-splitters
+langchain-together
+matplotlib
+networkx

@@ -1,0 +1,50 @@
+<Crash of the Titans, isDevelopedBy, "Radical Entertainment">
+<Crash of the Titans, isPublishedBy, "Vivendi Games">
+<Crash of the Titans, isForPlatform, "PlayStation 2">
+<Crash of the Titans, isForPlatform, "Xbox 360">
+<Crash of the Titans, hasStoryline, "Neo and Nina Cortex plot">
+<Crash of the Titans, hasGameplayMechanics, "platforming">
+<Crash of the Titans, hasBeenRemastered, "Yes">
+<Crash of the Titans, hasStoryline, "Crash Bandicoot battles Titans">
+<Crash of the Titans, hasStoryline, "Save N. Tropy's sister">
+<Crash of the Titans, hasStoryline, "Various locations">
+<Crash of the Titans, hasStoryline, "Collect Aku Aku masks">
+<Crash of the Titans, hasAntagonist, "Dr. Neo Cortex">
+<Crash of the Titans, hasGameplayMechanics, "Generic health bar">
+<Crash of the Titans, hasGameplayMechanics, "Battle arenas">
+<Crash of the Titans, hasGameplayMechanics, "Removed platforming">
+<Crash of the Titans, hasGameplayMechanics, "Removed 100 wumpa fruit = free life">
+<Crash of the Titans, hasGameplayMechanics, "Intense action">
+<Crash of the Titans, hasGameplayMechanics, "Adrenaline-fueled adventures">
+<Crash of the Titans, hasCharacter, "Crash Bandicoot">
+<Crash of the Titans, hasCharacter, "Aku Aku">
+<Crash of the Titans, hasCharacter, "Uka Uka">
+<Crash of the Titans, hasCharacter, "Doctor Neo Cortex">
+<Crash of the Titans, hasInGameLocation, "City">
+<Crash of the Titans, hasInGameLocation, "Underworld">
+<Crash of the Titans, hasInGameLocation, "Laboratory">
+<Crash of the Titans, isDevelopedBy, "Radical Entertainment">
+<Crash of the Titans, hasReleaseDate, "2007">
+<Crash of the Titans, isForPlatform, "PlayStation 2">
+<Crash of the Titans, isForPlatform, "PlayStation Portable">
+<Crash of the Titans, isForPlatform, "Wii">
+<Crash of the Titans, isForPlatform, "Nintendo DS">
+<Crash of the Titans, isForPlatform, "Xbox 360">
+<Crash of the Titans, hasCriticalReception, "IGN score 7.0/10">
+<Crash of the Titans, hasSequel, "Crash: Mind Over Mutant">
+<Crash of the Titans, hasSequel, "Crash: Twinsanity">
+<Crash of the Titans, hasSequel, "Crash Bandicoot: Wrath of Cortex">
+<Crash of the Titans, hasSequel, "Crash Bandicoot: The Huge Adventure">
+<Crash of the Titans, isDevelopedBy, "Radical Entertainment">
+<Crash of the Titans, isPublishedBy, "Vivendi Games">
+<Crash of the Titans, isForPlatform, "PlayStation 2">
+<Crash of the Titans, isForPlatform, "Xbox 360">
+<Crash of the Titans, hasStoryline, "Neo and Nina Cortex plot">
+<Crash of the Titans, hasGameplayMechanics, "platforming">
+<Crash of the Titans, hasBeenRemastered, "Yes">
+<Crash of the Titans, hasCharacters, "Crash Bandicoot, Aku Aku, Uka Uka, Doctor Neo Cortex">
+<Crash of the Titans, hasInGameLocation, "City, Underworld, Laboratory">
+<Crash of the Titans, hasReleaseDate, "2007">
+<Crash of the Titans, hasCriticalReception, "IGN score 7.0/10">
+<Crash of the Titans, hasSequel, "Crash: Mind Over Mutant, Crash: Twinsanity, Crash Bandicoot: Wrath of Cortex, Crash Bandicoot: The Huge Adventure">
+

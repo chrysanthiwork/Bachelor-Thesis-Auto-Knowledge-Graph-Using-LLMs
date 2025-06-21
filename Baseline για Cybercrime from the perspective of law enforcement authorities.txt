@@ -1,0 +1,83 @@
+<Offender, hasAttribute, Name>
+<Offender, hasAttribute, Age>
+<Offender, hasAttribute, Gender>
+<Offender, hasAttribute, Nationality>
+<Offender, hasAttribute, Address>
+<Offender, hasAttribute, Contact Information>
+<Offender, hasAttribute, Criminal Record>
+<Offender, hasAttribute, Digital Footprint>
+<Victim, hasAttribute, Name>
+<Victim, hasAttribute, Age>
+<Victim, hasAttribute, Gender>
+<Victim, hasAttribute, Nationality>
+<Victim, hasAttribute, Address>
+<Victim, hasAttribute, Contact Information>
+<Victim, hasAttribute, Type of Victim>
+<Victim, hasAttribute, Impact of Crime>
+<Crime, hasAttribute, Type of Crime>
+<Crime, hasAttribute, Date of Incident>
+<Crime, hasAttribute, Location of Incident>
+<Crime, hasAttribute, Description>
+<Crime, hasAttribute, Severity>
+<Crime, hasAttribute, Status>
+<Evidence, hasAttribute, Type of Evidence>
+<Evidence, hasAttribute, Source>
+<Evidence, hasAttribute, Date Collected>
+<Evidence, hasAttribute, Description>
+<Evidence, hasAttribute, Relevance to Case>
+<Investigator, hasAttribute, Name>
+<Investigator, hasAttribute, Rank>
+<Investigator, hasAttribute, Department>
+<Investigator, hasAttribute, Contact Information>
+<Investigator, hasAttribute, Specialization>
+<Investigator, hasAttribute, Case Load>
+<Legal Authority, hasAttribute, Name>
+<Legal Authority, hasAttribute, Jurisdiction>
+<Legal Authority, hasAttribute, Contact Information>
+<Legal Authority, hasAttribute, Role>
+<Case, hasAttribute, Case ID>
+<Case, hasAttribute, Date Opened>
+<Case, hasAttribute, Date Closed>
+<Case, hasAttribute, Status>
+<Case, hasAttribute, Summary>
+<Case, hasAttribute, Involved Parties>
+<Case, hasAttribute, Evidence Collected>
+<Case, hasAttribute, Legal Proceedings>
+<Technology, hasAttribute, Type of Technology>
+<Technology, hasAttribute, Manufacturer>
+<Technology, hasAttribute, Model>
+<Technology, hasAttribute, Purpose>
+<Technology, hasAttribute, Usage in Crime>
+<Location, hasAttribute, Name>
+<Location, hasAttribute, Type>
+<Location, hasAttribute, Coordinates>
+<Location, hasAttribute, Relevance to Crime>
+<Organization, hasAttribute, Name>
+<Organization, hasAttribute, Type>
+<Organization, hasAttribute, Address>
+<Organization, hasAttribute, Contact Information>
+<Organization, hasAttribute, Role in Case>
+Relationships
+<Offender, targets, Victim>
+<Offender, attacks, Victim>
+<Offender, harms, Victim>
+<Offender, commits, Crime>
+<Offender, participates in, Crime>
+<Victim, is victim of, Crime>
+<Victim, suffers from, Crime>
+<Crime, has evidence, Evidence>
+<Crime, is proven by, Evidence>
+<Investigator, investigates, Case>
+<Investigator, leads, Case>
+<Legal Authority, prosecutes, Case>
+<Legal Authority, judges, Case>
+<Case, contains, Evidence>
+<Case, relates to, Evidence>
+<Offender, is source of, Evidence>
+<Offender, is involved in, Evidence>
+<Technology, is used in, Crime>
+<Technology, is targeted by, Crime>
+<Location, is site of, Crime>
+<Location, is origin of, Crime>
+<Organization, is involved in, Case>
+<Organization, supports, Case>

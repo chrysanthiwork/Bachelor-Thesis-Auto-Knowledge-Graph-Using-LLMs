@@ -1,0 +1,25 @@
+<Crash of the Titans, isA, VideoGame>
+<Crash of the Titans, developer, Vicarious Visions>
+<Crash of the Titans, publisher, Activision>
+<Crash of the Titans, platform, PlayStation 3>
+<Crash of the Titans, platform, Xbox 360>
+<Crash of the Titans, mainCharacter, Crash Bandicoot>
+<Crash of the Titans, mainCharacter, Coco Bandicoot>
+<Crash of the Titans, antagonist, Dr. Neo Cortex>
+<Crash of the Titans, antagonist, Dr. N. Gin>
+<Crash of the Titans, setting, Greek Mythology>
+<Crash of the Titans, releaseDate, "2010-10-12">
+<Crash of the Titans, genre, "Action-adventure">
+<Crash of the Titans, plot, "Crash and Coco must stop Dr. Neo Cortex and Dr. N. Gin from awakening the Titans">
+<Crash of the Titans, feature, "Multiplayer">
+<Crash of the Titans, feature, "Single-player">
+<Crash of the Titans, feature, "Online Play">
+<Crash of the Titans, rating, "ESRB T for Teen">
+<Crash of the Titans, language, "English">
+<Crash of the Titans, language, "Japanese">
+<Crash of the Titans, language, "French">
+<Crash of the Titans, language, "German">
+<Crash of the Titans, language, "Spanish">
+<Crash of the Titans, language, "Italian">
+<Crash of the Titans, language, "Dutch">
+<Crash of the Titans, language, "Russian">
